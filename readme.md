@@ -53,7 +53,7 @@ These are the best places to get started with Allo Protocol.
 - [Guide: Flow of Funds](https://docs.allo.gitcoin.co/allo/flow-of-funds)
 - [Guide: Building on Allo](https://docs.allo.gitcoin.co/allo/building-on-allo)
 - [Allocation Strategies: Overview](https://docs.allo.gitcoin.co/strategies)
-- [Project Registry: Overview](https://docs.allo.gitcoin.co/project-registry)
+- [Project Registry: Overview](https://docs.allo.gitcoin.co/registry/integrating-with-the-registry)
 - [Guide: Integrating with the Project Registry](https://docs.allo.gitcoin.co/project-registry/integrating-with-the-project-registry)
 
 ### Learning Resources
